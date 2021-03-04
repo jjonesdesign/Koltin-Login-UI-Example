@@ -3,7 +3,7 @@ A UI example project to demonstrate basic UI functionality with MVVM in Kotlin F
 
 ## This project demonstrates:
 - Use of Activities and Fragments
-- MVVM (Model, View, View-Model) through LiveData observables
+- MVVM (Model-View-ViewModel) through LiveData observables *Minus the repository part*
 - EventBus Activity/Fragment communication
 - Project file orginzation
 - Simple splash screen activity on application start
