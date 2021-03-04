@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Kotlin Login Example</string>
+    <string name="action_settings">Settings</string>
+
+    //UI Strings
+    <string name="welcome">Welcome!</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+
+    //Error Strings
+    <string name="error_name_min_length">Name cannot be empty</string>
+    <string name="error_username_min_length">Username must be 4 or more characters</string>
+    <string name="error_password_not_valid">Password must be 8 characters or more and contain 1 number and 1 special character</string>
+
+</resources>
